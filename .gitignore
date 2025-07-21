@@ -1,0 +1,18 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Misc
+.DS_Store
+*.swp
+*.lock
+
+# Cocoapods
+Pods/
